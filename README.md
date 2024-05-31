@@ -2,7 +2,12 @@ Fraud_Guard - Real-Time Payment Fraud Detection API on Google Cloud
 
 Here’s a brief overview of our deployed API, demonstrating how it assesses fraud probabilities for a given User-ID using three Deep Learning Models. These models were fine-tuned for recall, precision, and accuracy to address various use cases.
 
-Demonstration Video: Demonstration_of_The_Three_models.mp4
+Demonstration Video: 
+
+
+https://github.com/asthami/Fraud_guard/assets/108264394/4afc45c3-76dc-4667-a592-480015c5e2ed
+
+
 
 BASIC FLOW:
 
@@ -34,4 +39,4 @@ The API was deployed on Google Cloud using Docker and ML Cloud Run.
 Deployment has been paused to avoid continuous billing charges.
 For further details on model summaries, performance, and dataset exploration using the Neo4j Graph Database and Python libraries, please refer to the project report:
 
-Project Report
+[Project Report](https://github.com/asthami/Fraud_guard/blob/main/ProjectReport.pdf)
